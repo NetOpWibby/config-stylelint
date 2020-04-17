@@ -17,7 +17,7 @@ $ npm i @webb/config-stylelint stylelint stylelint-order -D
 
 Add these lines to your `.stylelintrc` file:
 
-```json
+```js
 {
   extends: "@webb/config-stylelint",
   plugins: [
